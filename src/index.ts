@@ -1,5 +1,5 @@
 const whichLeaguesToFetch: string[] = [ // initial array with leagues wanted (you can add/edit/remove...)
-    'English Premier League',
+    'English Premier League',           // next time use enum!!
     'Spanish La Liga',
     'German Bundesliga',
     'Italian Serie A',
